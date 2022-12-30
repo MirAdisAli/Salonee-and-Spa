@@ -1,0 +1,37 @@
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\Salonee and Spa.exe
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\Salonee and Spa.deps.json
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\Salonee and Spa.runtimeconfig.json
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\Salonee and Spa.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\Salonee and Spa.dll
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\Salonee and Spa.pdb
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form1.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Properties.Resources.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.AssemblyInfo.cs
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.dll
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.pdb
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.genruntimeconfig.cache
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form2.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form3.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form7.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form8.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form9.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form5.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form6.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form4.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form10.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form11.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form12.resources
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Salonee and Spa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee and Spa.csproj.CopyComplete
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form13.resources
+C:\Users\HP\Desktop\Salonee and Spa\obj\Debug\netcoreapp3.1\Salonee_and_Spa.Form14.resources
